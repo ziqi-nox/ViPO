@@ -2,7 +2,7 @@
 <div align="center">
   <!-- <a href='LICENSE'><img src='https://img.shields.io/badge/license-MIT-yellow'></a> -->
   <a href='https://arxiv.org/abs/2511.18719'><img src='https://img.shields.io/badge/ArXiv-red?logo=arxiv'></a>  &nbsp;
-  <a href='https://github.com/justaverygoodboy/ViPO'><img src="https://img.shields.io/badge/Code-9E95B7?logo=github"></a> &nbsp;
+  <a href='https://github.com/ziqi-nox/ViPO'><img src="https://img.shields.io/badge/Code-9E95B7?logo=github"></a> &nbsp;
 </div>
 
 
